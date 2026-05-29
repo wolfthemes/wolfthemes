@@ -30,11 +30,16 @@ Most repositories here are private. They contain client work, proprietary theme 
 
 A good representation of my current way of working daily.
 
+[wolf-store repo](https://github.com/wolfthemes/wolf-store)
+
 A ground-up rebuild of my theme storefront using a modern decoupled architecture: namespaced PHP plugin on the backend exposing a REST API, React on the frontend for dynamic UI (cart, login modal, account flows), all containerised with Docker (WordPress FPM + nginx + MySQL) for a clean local dev environment. The goal is full independence from third-party marketplaces with a custom licensing and delivery pipeline.
 
 > **Stack:** WordPress · WooCommerce · PHP 8 (OOP, namespaced) · React · REST API · Docker · nginx · PHP-FPM · SCSS · WSL
 
 ### 📖 [wolfthemes-wiki](https://wiki.wolfthemes.com) — Self-Hosted Support Knowledge Base
+
+[wolfthemes-wiki repo](https://github.com/wolfthemes/wolfthemes-wiki)
+
 Migrated from a third-party support platform to a fully self-hosted VitePress documentation site deployed via GitHub Pages with a custom domain. Markdown-based, Git-driven workflow — fast, searchable, and easy to maintain.
 
 > **Stack:** VitePress · Markdown · GitHub Actions · GitHub Pages · Custom domain
