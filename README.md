@@ -1,7 +1,7 @@
 # Hey, I'm Constantin 👋
 
 WordPress theme developer with 14 years of experience.  
-Power Elite Author on ThemeForest · [WolfThemes](https://wolfthemes.store)
+Power Elite Author on ThemeForest · [WolfThemes](https://wolfthemes.com)
 
 ## What I'm Working On
 - 🎨 Building themes under the [WolfThemes](https://wolfthemes.com) brand
