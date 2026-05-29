@@ -1,109 +1,82 @@
 <div align="center">
 
-# Constantin · WolfThemes
+# Constantin Saguin
 
-**WordPress Theme Developer · Power Elite Author on ThemeForest**
+**Senior WordPress Engineer · Full-Stack · 14 years**
 
-*Open to full-time or contract opportunities — remote, EU timezone (CEST)*
+*Available for full-time remote positions · EU timezone (CEST)*
 
-[![ThemeForest](https://img.shields.io/badge/ThemeForest-Power_Elite_Author-82b541?style=flat-square&logo=envato&logoColor=white)](https://themeforest.net/user/wolf-themes)
-[![Store](https://img.shields.io/badge/wolfthemes.store-Visit_Store-1a1a2e?style=flat-square&logo=wordpress&logoColor=white)](https://wolfthemes.com)
-[![Wiki](https://img.shields.io/badge/wiki.wolfthemes.com-Knowledge_Base-3b82f6?style=flat-square&logo=gitbook&logoColor=white)](https://wiki.wolfthemes.com)
+[![ThemeForest](https://img.shields.io/badge/Power_Elite_Author-$2M+_revenue-82b541?style=flat-square&logo=envato&logoColor=white)](https://themeforest.net/user/wolf-themes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-constantin--saguin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/constantin-saguin)
 
 </div>
 
 ---
 
-## About
+## Profile
 
-14 years building premium WordPress themes commercially. I design, develop, and ship production-grade themes end-to-end — from concept and UI design to PHP architecture, JavaScript, and deployment — under the [WolfThemes](https://wolfthemes.com) brand.
+Senior engineer with 14+ years shipping production-grade WordPress products at scale. I architect, build, and maintain full-stack web systems end-to-end — backend PHP, REST APIs, React frontends, Linux server infrastructure, and CI/CD pipelines — working entirely solo under the [WolfThemes](https://wolfthemes.com) brand.
 
-Most repositories here are private. They contain client work, proprietary theme source code, and sensitive build tooling I ship commercially on ThemeForest. What's public reflects the open-source layer of my stack.
+**35k+ sales · $2M+ revenue · 4.5/5 across 1,500+ reviews · ThemeForest Power Elite**
 
-**I'm currently open to full-time or long-term contract positions** in WordPress theme/plugin development, frontend engineering, or product-focused web development roles. Remote preferred, EU hours.
-
----
-
-## Latest Projects
-
-### 🛒 [wolf-store](https://staging20.wolfthemes.com/store/) — Modern WordPress Theme Store (in development)
-
-A good representation of my current way of working daily.
-
-[wolf-store repo](https://github.com/wolfthemes/wolf-store)
-
-A ground-up rebuild of my theme storefront using a modern decoupled architecture: namespaced PHP plugin on the backend exposing a REST API, React on the frontend for dynamic UI (cart, login modal, account flows), all containerised with Docker (WordPress FPM + nginx + MySQL) for a clean local dev environment. The goal is full independence from third-party marketplaces with a custom licensing and delivery pipeline.
-
-> **Stack:** WordPress · WooCommerce · PHP 8 (OOP, namespaced) · React · REST API · Docker · nginx · PHP-FPM · SCSS · WSL
-
-### 📖 [wolfthemes-wiki](https://wiki.wolfthemes.com) — Self-Hosted Support Knowledge Base
-
-[wolfthemes-wiki repo](https://github.com/wolfthemes/wolfthemes-wiki)
-
-Migrated from a third-party support platform to a fully self-hosted VitePress documentation site deployed via GitHub Pages with a custom domain. Markdown-based, Git-driven workflow — fast, searchable, and easy to maintain.
-
-> **Stack:** VitePress · Markdown · GitHub Actions · GitHub Pages · Custom domain
+Most repositories here are private — proprietary theme/plugin source, client work, and commercial build tooling. The public repos reflect the open-source side of my stack.
 
 ---
 
-## Tech Stack
+## Current Projects
 
-### Core
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588a?style=flat-square&logo=woocommerce&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+### [wolf-store](https://github.com/wolfthemes/wolf-store) — Decoupled WordPress Storefront
+*In active development*
 
-### Frontend & Build
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![webpack](https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![BrowserSync](https://img.shields.io/badge/BrowserSync-CF649A?style=flat-square&logo=browsersync&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+Rebuilding my theme distribution platform as a modern decoupled application: namespaced PHP 8 plugin exposing a REST API backend, React frontend handling cart, auth flows, and account management, containerised locally with Docker (WordPress FPM + nginx + MySQL). Designed for full marketplace independence with a custom licensing and delivery pipeline.
 
-### Tooling & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+`PHP 8` `REST API` `React` `WooCommerce` `Docker` `nginx` `PHP-FPM` `SCSS` `WSL`
 
-### Infrastructure & Delivery
-![WordPress Multisite](https://img.shields.io/badge/WP_Multisite-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![BunnyCDN](https://img.shields.io/badge/BunnyCDN-FF6600?style=flat-square&logo=bunny&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
-![Certbot](https://img.shields.io/badge/Certbot-EF5734?style=flat-square&logo=eff&logoColor=white)
+### [wolfthemes-wiki](https://github.com/wolfthemes/wolfthemes-wiki) — [wiki.wolfthemes.com](https://wiki.wolfthemes.com)
 
-### Documentation & Knowledge
-![VitePress](https://img.shields.io/badge/VitePress-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
+Replaced a third-party SaaS support platform with a self-hosted VitePress knowledge base deployed via GitHub Actions to GitHub Pages with a custom domain. Markdown-first, Git-driven, zero ongoing cost.
+
+`VitePress` `GitHub Actions` `GitHub Pages` `Markdown`
 
 ---
 
-## Work
+## Stack
 
-**14 years · 49+ themes shipped · Power Elite status on ThemeForest**
+**Languages & Core**
+`PHP 8` `JavaScript ES6+` `TypeScript` `SCSS/CSS3` `HTML5` `SQL`
 
-I've built themes across a wide range of niches: music & artist portfolios, podcasting, editorial, e-commerce, outdoor/adventure, creative agencies, and more. Every theme is developed solo — design, code, documentation, and ongoing support.
+**Frameworks & Libraries**
+`WordPress` `WooCommerce` `React` `Elementor` `GSAP` `jQuery` `ACF`
 
-The full portfolio lives at [wolfthemes.com](https://wolfthemes.com) and on [ThemeForest](https://themeforest.net/user/wolf-themes).
+**Architecture & APIs**
+`WordPress REST API` `OOP` `Composer` `Autoloading` `Modular PHP` `WordPress Hooks & Filters` `WP-CLI` `WordPress Multisite`
+
+**Build & Tooling**
+`webpack` `npm` `BrowserSync` `Docker` `Git` `GitHub Actions` `CI/CD`
+
+**Infrastructure**
+`Linux / Ubuntu` `nginx` `PHP-FPM` `DigitalOcean` `Bedrock` `Capistrano` `BunnyCDN` `WP Super Cache` `Autoptimize` `Let's Encrypt / Certbot`
+
+**Dev Environment**
+`Neovim` `WSL` `LocalWP`
+
+**Adaptable** *(familiar, not daily)*
+`Gutenberg custom blocks` `WPML`
+
+---
+
+## Experience
+
+**ThemeForest Author — WolfThemes** `2011 – Present`
+Engineered and shipped 40+ premium WordPress themes and plugins. Architected and self-managed a Linux/nginx server running 50+ live demo sites using Bedrock and Capistrano for reproducible deployments. Full ownership: architecture, development, testing, support, and long-term maintenance.
+
+**Freelance WordPress Developer** `2009 – Present`
+Custom WordPress and WooCommerce builds for agencies and clients. Published a theme on the official WooCommerce Marketplace validated against Automattic's standards. Performance optimisation, SEO, REST API integrations, remote collaboration with international teams.
 
 ---
 
 ## Contact
 
-- 🌐 [wolfthemes.com](https://wolfthemes.com)
-- 📖 [wiki.wolfthemes.com](https://wiki.wolfthemes.com)
-- 💼 Available for full-time or long-term remote work · CEST timezone
+`constantin.saguin@gmail.com` · [wolfthemes.com](https://wolfthemes.com) · [linkedin.com/in/constantin-saguin](https://linkedin.com/in/constantin-saguin)
 
----
-
-<div align="center">
-<sub>Most repos here are private — client work, proprietary theme source, and commercial build tooling. The public repos represent the open-source side of my stack.</sub>
-</div>
+*Remote · France (CEST) · French native · English fluent*
