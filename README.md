@@ -28,7 +28,7 @@ Most repositories here are private — proprietary theme/plugin source, client w
 ### [wolf-store](https://github.com/wolfthemes/wolf-store) — Decoupled WordPress Storefront
 *In active development*
 
-Rebuilding my theme distribution platform as a modern decoupled application: namespaced PHP 8 plugin exposing a REST API backend, React frontend handling cart, auth flows, and account management, containerised locally with Docker (WordPress FPM + nginx + MySQL). Designed for full marketplace independence with a custom licensing and delivery pipeline.
+Rebuilding my theme distribution platform as a modern decoupled application: namespaced PHP 8 plugin exposing a REST API backend, React frontend, containerised locally with Docker (WordPress FPM + nginx + MySQL). Designed for full marketplace independence with a custom licensing and delivery pipeline.
 
 `PHP 8` `REST API` `React` `WooCommerce` `Docker` `nginx` `PHP-FPM` `SCSS` `WSL`
 
