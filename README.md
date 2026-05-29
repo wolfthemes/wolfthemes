@@ -24,9 +24,12 @@ Most repositories here are private. They contain client work, proprietary theme 
 
 ---
 
-## Featured Projects
+## Latest Projects
 
-### 🛒 [wolf-store](https://staging20.wolfthemes.com/store/) — Modern WordPress Theme Store
+### 🛒 [wolf-store](https://staging20.wolfthemes.com/store/) — Modern WordPress Theme Store (in development)
+
+A good representation of my current way of working daily.
+
 A ground-up rebuild of my theme storefront using a modern decoupled architecture: namespaced PHP plugin on the backend exposing a REST API, React on the frontend for dynamic UI (cart, login modal, account flows), all containerised with Docker (WordPress FPM + nginx + MySQL) for a clean local dev environment. The goal is full independence from third-party marketplaces with a custom licensing and delivery pipeline.
 
 > **Stack:** WordPress · WooCommerce · PHP 8 (OOP, namespaced) · React · REST API · Docker · nginx · PHP-FPM · SCSS · WSL
