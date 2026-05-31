@@ -15,7 +15,11 @@
 
 ## Profile
 
-Senior engineer with 14+ years shipping production-grade WordPress products at scale. I architect, build, and maintain full-stack web systems end-to-end — backend PHP, REST APIs, React frontends, Linux server infrastructure, and CI/CD pipelines — working entirely solo under the [WolfThemes](https://wolfthemes.com) brand.
+Senior engineer with 14 years building production-grade WordPress products at scale.
+
+Creator of [WolfThemes](https://wolfthemes.com), a portfolio of premium themes and plugins generating over $2M in sales across 35,000+ customers worldwide.
+
+Specialized in modern PHP, WordPress architecture, WooCommerce, REST APIs, performance optimization, Linux infrastructure, and CI/CD workflows.
 
 **35k+ sales · $2M+ revenue · 4.5/5 across 1,500+ reviews · ThemeForest Power Elite**
 
