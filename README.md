@@ -15,13 +15,14 @@
 
 ## Profile
 
-Senior engineer with 14 years building production-grade WordPress products at scale.
+Senior engineer with 14 years of experience building production-grade WordPress products at scale.
 
 Creator of [WolfThemes](https://wolfthemes.com), a portfolio of premium themes and plugins generating over $2M in sales across 35,000+ customers worldwide.
 
 Specialized in modern PHP, WordPress architecture, WooCommerce, REST APIs, performance optimization, Linux infrastructure, and CI/CD workflows.
+Exploring AI-assisted development workflows and autonomous agent systems for support, development and content operations.
 
-**35k+ sales · $2M+ revenue · 4.5/5 across 1,500+ reviews · ThemeForest Power Elite**
+I enjoy building products, but I'm also looking to contribute my experience within a larger engineering team and work on long-term projects at scale.
 
 Most repositories here are private — proprietary theme/plugin source, client work, and commercial build tooling. The public repos reflect the open-source side of my stack.
 
@@ -71,7 +72,7 @@ Replaced a third-party SaaS support platform with a self-hosted VitePress knowle
 
 ## Experience
 
-**ThemeForest Author — WolfThemes** `2011 – Present`
+**Founder & Lead Developer — WolfThemes** `2011 – Present`
 Engineered and shipped 40+ premium WordPress themes and plugins. Architected and self-managed a Linux/nginx server running 50+ live demo sites using Bedrock and Capistrano for reproducible deployments. Full ownership: architecture, development, testing, support, and long-term maintenance.
 
 **Freelance WordPress Developer** `2009 – Present`
