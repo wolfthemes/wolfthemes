@@ -19,10 +19,11 @@ Senior engineer with 14 years of experience building production-grade WordPress 
 
 Creator of [WolfThemes](https://wolfthemes.com), a portfolio of premium themes and plugins generating over $2M in sales across 35,000+ customers worldwide.
 
-Specialized in modern PHP, WordPress architecture, WooCommerce, REST APIs, performance optimization, Linux infrastructure, and CI/CD workflows.
-Exploring AI-assisted development workflows and autonomous agent systems for support, development and content operations.
+Strong experience with modern PHP, WordPress architecture, WooCommerce, performance optimization, and Linux-based deployments.
 
-I enjoy building products, but I'm also looking to contribute my experience within a larger engineering team and work on long-term projects at scale.
+Currently expanding into REST APIs, React, and CI/CD workflows.
+
+Exploring AI-assisted development workflows and autonomous agent systems for support, development, and content operations.
 
 Most repositories here are private — proprietary theme/plugin source, client work, and commercial build tooling. The public repos reflect the open-source side of my stack.
 
