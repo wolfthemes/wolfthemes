@@ -27,7 +27,7 @@ Currently expanding into REST APIs, React, and CI/CD workflows.
 
 Exploring AI-assisted development workflows and autonomous agent systems for support, development, and content operations.
 
-Most repositories here are private — proprietary theme/plugin source, client work, and commercial build tooling. The public repos reflect the open-source side of my stack.
+Most repositories here are private: proprietary theme/plugin source, client work, and commercial build tooling. The public repos reflect the open-source side of my stack.
 
 ---
 
