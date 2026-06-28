@@ -4,11 +4,11 @@
 
 **Senior WordPress Engineer · Full-Stack · 14 years**
 
-*Available for full-time remote positions · EU timezone (CEST)*
+*Open to remote roles · Alsace, France (CEST) · Flexible across EU & US timezones*
 
 [Constantin.Saguin.com](https://constantin.saguin.com)
 
-[![ThemeForest](https://img.shields.io/badge/Power_Elite_Author-35k+_sales-82b541?style=flat-square&logo=envato&logoColor=white)](https://themeforest.net/user/wolf-themes)
+[![ThemeForest](https://img.shields.io/badge/Power_Elite_Author-36k+_sales-82b541?style=flat-square&logo=envato&logoColor=white)](https://themeforest.net/user/wolf-themes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-constantin--saguin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/constantin-saguin)
 
 </div>
@@ -17,15 +17,13 @@
 
 ## Profile
 
-Senior engineer with 14 years of experience building production-grade WordPress products at scale.
+Senior full-stack WordPress engineer with 14 years of professional experience building and shipping production-grade products at scale.
 
-Creator of [WolfThemes](https://wolfthemes.com), a portfolio of premium themes and plugins generating over $2M in sales across 35,000+ customers worldwide.
+Founder of [WolfThemes](https://wolfthemes.com) — a portfolio of 40+ premium themes and plugins generating **$2M+ in sales** across **36,000+ customers worldwide**, with a Power Elite Author status on ThemeForest.
 
-Strong experience with modern PHP, WordPress architecture, WooCommerce, performance optimization, and Linux-based deployments.
+Deep expertise in modern PHP 8, WordPress architecture, WooCommerce, REST APIs, and Linux server management. Self-managed a DigitalOcean server running 50+ live Multisite demo sites with Bedrock and Capistrano for reproducible deployments.
 
-Currently expanding into REST APIs, React, and CI/CD workflows.
-
-Exploring AI-assisted development workflows and autonomous agent systems for support, development, and content operations.
+Currently building decoupled WordPress applications (PHP REST API + React) and tooling for WordPress FSE development. Actively exploring AI-assisted development workflows and autonomous agent systems.
 
 Most repositories here are private: proprietary theme/plugin source, client work, and commercial build tooling. The public repos reflect the open-source side of my stack.
 
@@ -40,11 +38,17 @@ Rebuilding my theme distribution platform as a modern decoupled application: nam
 
 `PHP 8` `REST API` `React` `WooCommerce` `Docker` `nginx` `PHP-FPM` `SCSS` `WSL`
 
-### [wolfthemes-wiki](https://github.com/wolfthemes/wolfthemes-wiki) — [wiki.wolfthemes.com](https://wiki.wolfthemes.com)
+### [seijaku-fse](https://github.com/wolfthemes/seijaku-fse) — FSE Gutenberg Theme
 
-Replaced a third-party SaaS support platform with a self-hosted VitePress knowledge base deployed via GitHub Actions to GitHub Pages with a custom domain. Markdown-first, Git-driven, zero ongoing cost.
+Full Site Editing block theme built on the native Gutenberg editor.
 
-`VitePress` `GitHub Actions` `GitHub Pages` `Markdown`
+`WordPress` `FSE` `Gutenberg` `PHP` `SCSS`
+
+### [guty](https://github.com/wolfthemes/guty) — FSE Template Compiler
+
+TypeScript CLI that compiles JSX components into WordPress Full Site Editing (FSE) block templates, bridging modern component-based authoring with the native WordPress block editor format.
+
+`TypeScript` `Node.js` `React/JSX` `WordPress FSE` `CLI`
 
 ---
 
@@ -73,18 +77,8 @@ Replaced a third-party SaaS support platform with a self-hosted VitePress knowle
 
 ---
 
-## Experience
-
-**Founder & Lead Developer — WolfThemes** `2011 – Present`
-Engineered and shipped 40+ premium WordPress themes and plugins. Architected and self-managed a Linux/nginx server running 50+ live demo sites using Bedrock and Capistrano for reproducible deployments. Full ownership: architecture, development, testing, support, and long-term maintenance.
-
-**Freelance WordPress Developer** `2009 – Present`
-Custom WordPress and WooCommerce builds for agencies and clients. Published a theme on the official WooCommerce Marketplace validated against Automattic's standards. Performance optimisation, SEO, REST API integrations, remote collaboration with international teams.
-
----
-
 ## Contact
 
 `constantin.saguin@gmail.com` · [wolfthemes.com](https://wolfthemes.com) · [linkedin.com/in/constantin-saguin](https://linkedin.com/in/constantin-saguin)
 
-*Remote · France (CEST) · French native · English fluent*
+*Remote · Alsace, France (CEST) · Flexible across EU & US timezones · French native · English fluent*
