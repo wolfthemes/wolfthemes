@@ -17,15 +17,11 @@
 
 ## Profile
 
-Senior full-stack WordPress engineer with 14 years of professional experience building and shipping production-grade products at scale.
+Senior full-stack WordPress engineer, 14 years shipping production-grade products. Founder of [WolfThemes](https://wolfthemes.com) — 40+ premium themes and plugins, **$2M+ in sales**, **36,000+ customers**, Power Elite Author on ThemeForest.
 
-Founder of [WolfThemes](https://wolfthemes.com) — a portfolio of 40+ premium themes and plugins generating **$2M+ in sales** across **36,000+ customers worldwide**, with a Power Elite Author status on ThemeForest.
+Core expertise: PHP 8, WordPress architecture, WooCommerce, REST APIs, Linux/nginx. Self-managed a DigitalOcean server running 50+ live Multisite demo sites (Bedrock + Capistrano). Currently building decoupled WordPress apps (PHP REST API + React), FSE tooling, and AI-assisted development workflows.
 
-Deep expertise in modern PHP 8, WordPress architecture, WooCommerce, REST APIs, and Linux server management. Self-managed a DigitalOcean server running 50+ live Multisite demo sites with Bedrock and Capistrano for reproducible deployments.
-
-Currently building decoupled WordPress applications (PHP REST API + React) and tooling for WordPress FSE development. Actively exploring AI-assisted development workflows and autonomous agent systems.
-
-Most repositories here are private: proprietary theme/plugin source, client work, and commercial build tooling. The public repos reflect the open-source side of my stack.
+Most repositories here are private. The public repos reflect the open-source side of my stack.
 
 ---
 
