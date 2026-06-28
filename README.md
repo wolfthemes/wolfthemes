@@ -6,8 +6,7 @@
 
 *Open to remote roles · Alsace, France (CEST) · Flexible across EU & US timezones*
 
-[Constantin.Saguin.com](https://constantin.saguin.com)
-
+[![Website](https://img.shields.io/badge/Constantin.Saguin.com-portfolio-4a90d9?style=flat-square&logo=google-chrome&logoColor=white)](https://constantin.saguin.com)
 [![ThemeForest](https://img.shields.io/badge/Power_Elite_Author-36k+_sales-82b541?style=flat-square&logo=envato&logoColor=white)](https://themeforest.net/user/wolf-themes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-constantin--saguin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/constantin-saguin)
 
